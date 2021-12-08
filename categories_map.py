@@ -351,6 +351,7 @@ CMSSW_CATEGORIES = {
     "EventFilter/SiStripChannelChargeFilter",
     "EventFilter/Utilities",
     "IORawData/CSCCommissioning",
+    "IOPool/Streamer",
   ],
   "db": [
     "CaloOnlineTools/HcalOnlineDb",
